@@ -1,0 +1,42 @@
+_repo: Innocencia_68635
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Norfini, A.
+    gutenberg_agent_id: '54876'
+    url: http://www.gutenberg.org/2009/agents/54876
+creator:
+  author:
+    agent_name: Taunay, Alfredo d'Escragnolle Taunay, Visconde de
+    aliases:
+    - Dinarte, Sílvio
+    - Dinarte, Sylvio
+    - Dinarte, Silvio
+    - D'Escragnolle Taunay, Alfredo, Visconde de Taunay
+    - Escragnolle Taunay, Alfredo de
+    birthdate: 1843
+    deathdate: 1899
+    gutenberg_agent_id: '36495'
+    url: http://www.gutenberg.org/2009/agents/36495
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alfredo_d%27Escragnolle_Taunay,_Viscount_of_Taunay
+    - https://pt.wikipedia.org/wiki/Alfredo_d%27Escragnolle_Taunay
+description: ''
+gutenberg_issued: '2022-07-29'
+identifiers:
+  gutenberg: '68635'
+language: pt
+pgterms:marc904: https://catalog.hathitrust.org/Record/008612539
+pgterms:marc905: 20220719041316taunay
+pgterms:marc906: '1906'
+pgterms:marc907: BR
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: Brazil :N. Falcone,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Innocencia
+url: http://www.gutenberg.org/ebooks/68635
