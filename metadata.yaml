@@ -5,6 +5,9 @@ contributor:
     agent_name: Norfini, A.
     gutenberg_agent_id: '54876'
     url: http://www.gutenberg.org/2009/agents/54876
+covers:
+- cover_type: archival
+  image_path: 68635-h/images/innocencia_cover.jpg
 creator:
   author:
     agent_name: Taunay, Alfredo d'Escragnolle Taunay, Visconde de
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alfredo_d%27Escragnolle_Taunay,_Viscount_of_Taunay
     - https://pt.wikipedia.org/wiki/Alfredo_d%27Escragnolle_Taunay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68635#Innocencia
 gutenberg_issued: '2022-07-29'
 identifiers:
   gutenberg: '68635'
